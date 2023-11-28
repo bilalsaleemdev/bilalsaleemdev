@@ -24,7 +24,7 @@ Front-End Developer
 I have been working as a Front-End Developer for the past two years.
 
 * 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [ahsanzahoor010@gmail.com](mailto:ahsanzahoor010@gmail.com)
+* ✉️  You can contact me at [bilalsaleem.dev@gmail.com](mailto:bilalsaleem.dev@gmail.com)
 * 🚀  I'm currently working on Mern Stack.
 * 🤝  I'm open to collaborating on Open Source
 
@@ -44,7 +44,7 @@ I have been working as a Front-End Developer for the past two years.
 
 <p align="left">
   <a href="https://www.github.com/bilalsaleemdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/bilalsaleemdev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/bilal-saleem-9916b71b9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
