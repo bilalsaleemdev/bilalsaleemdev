@@ -55,7 +55,7 @@ I have been working as a Front-End Developer for the past two years.
 -->
 <div align='center'>
   <div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsaleemdev&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="rock12231" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsaleemdev" alt="stats" />
   </div>
 </div>
 <a href="https://github.com/bilalsaleemdev"<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsaleemdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
