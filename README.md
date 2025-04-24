@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋 My name is Bilal Saleem
+Hi 👋 My name is Muhammad Bilal
 ============================
 
 Front-End Developer
